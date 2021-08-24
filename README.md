@@ -1,1 +1,2 @@
 # Pokemon-word-game
+This Pokemon word game allows you to choose your team of pokemon from the first generation. The game itself will allow us to battle our roster of Pokémon against a randomly assigned roster of enemy Pokémon. The skill in this game is to find a preferable roster that can defeat the enemies. Each Pokémon has a strength and identifying that strength is required to defeat the enemies – especially when the enemies are stronger than we are.
